@@ -32,8 +32,9 @@ npm install
 
 
 2) Create .env file (DO NOT COMMIT)
-Create a file named .env in the root folder:
-OPENAI_API_KEY=your_real_key_here ( It must start with SK-....) 
+2.1) Create a file named .env in the root folder:
+2.2) USE COMMAND : touch .env 
+2.3) OPENAI_API_KEY=your_real_key_here ( It must start with SK-....) 
 
 
 3) Run the server
